@@ -3,9 +3,8 @@
 <h2>
   About me:
 </h2>
-<div align="right" class="tenor-gif-embed" data-postid="8949086" data-share-method="host" data-aspect-ratio="1.38889" data-width="100%">
-  <a href="https://tenor.com/view/lego-batman-cellphone-press-keys-gif-8949086">Lego Batman Cellphone GIF</a>
-  from <a href="https://tenor.com/search/lego+batman-gifs">Lego Batman GIFs</a>
+<div align="right">
+  <img src="https://tenor.com/pt-BR/view/lego-batman-cellphone-press-keys-gif-8949086"/>
 </div> 
 
 <p>
