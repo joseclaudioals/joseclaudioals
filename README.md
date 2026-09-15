@@ -4,12 +4,14 @@
   About me:
 </h2>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="lego-batman-cellphone.gif" height="auto"/>
-  <p>
-    I'm a Systems Analysis and Development student in Piauí - Brazil. My interest in computing started when I was a middle school doing a Computer network course and I had to made a system that used Computer Vision. Since then, is a dream been acomplished the ability do build solutions and share with other people. My main focus is on be a Java Backend developer and cloud architeture engeneer with AI to help to improve my skills.
+  <div>
+    <p>
+    I'm a Systems Analysis and Development student in Piauí - Brazil. My interest in computing started when I was a middle school doing a Computer network course and I made a system that used Computer Vision for a Science Fair. Since then, is a dream been acomplished have the ability do build solutions and share with other people. My main focus is on be a Java Backend developer and cloud architeture engeneer with AI to help to improve my skills.
 
   <i>Sometimes I do some arduino IOT projects for fun</i>
+  </div>
   </p>
 </div> 
 
@@ -40,6 +42,13 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX">
 </div>
+
+<h2>
+  Stats:
+</h2>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joseclaudioals&date_format=j%20M%5B%20Y%5D&background=B00A0A&sideLabels=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /></a>
+
+<a href="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9F0000&section=footer">
 
 
 <!--
