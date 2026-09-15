@@ -1,11 +1,11 @@
 ## Hi there 👋
-<hr>
+
 <h2>
   About me:
 </h2>
 
 <div style="display: flex; align-items: center;">
-  <img src="lego-batman-cellphone.gif" style="float: left;"/>
+  <img src="lego-batman-cellphone.gif" height="auto"/>
   <p>
     I'm a Systems Analysis and Development student in Piauí - Brazil. My interest in computing started when I was a middle school doing a Computer network course and I had to made a system that used Computer Vision. Since then, is a dream been acomplished the ability do build solutions and share with other people. My main focus is on be a Java Backend developer and cloud architeture engeneer with AI to help to improve my skills.
 
