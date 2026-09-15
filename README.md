@@ -46,9 +46,9 @@
 <h2>
   Stats:
 </h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joseclaudioals&date_format=j%20M%5B%20Y%5D&background=B00A0A&sideLabels=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joseclaudioals&date_format=j%20M%5B%20Y%5D&background=B00A0A&sideLabels=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /></a>
 
-<a href="" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9F0000&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9F0000&section=footer" width="100%" alt="Footer animado">
 
 
 <!--
